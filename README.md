@@ -4,7 +4,7 @@ This is a course project to predict the traffic speed in Hongkong.
 My team name used in the competition of Kaggle:EchoMoon
 
 Environment:
-Run in Python.
+Run in Python3.
 using the Scikit-learn pacakge
 
 Model:
