@@ -12,4 +12,4 @@ I select XGboost to train and test the data.
 And the selected features are year,month,day and hour ,which are divided from "date".
 
 Running method: 
-Running the "traffic_speed_predict_5001YANGYi.py" file and the testing result is generated named "submityy.csv"
+Running the "traffic_speed_predict_5001YANGYi.py" file and the resulting test is generated named "submityy.csv"
