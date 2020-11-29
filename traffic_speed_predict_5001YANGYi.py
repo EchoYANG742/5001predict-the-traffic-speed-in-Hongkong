@@ -46,7 +46,7 @@ def trainandTest(X_train, y_train, X_test):
     pd_data['id'] = pd_data['id'].astype(np.int32)
     pd_data['speed'] = pd_data['speed'].astype(np.float64)
     print(pd_data)
-    pd_data.to_csv('submityy.csv', index=None)
+    pd_data.to_csv('resulting_test.csv', index=None)
 
 
 if __name__ == '__main__':
