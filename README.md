@@ -1,7 +1,7 @@
 # 5001predict-the-traffic-speed-in-Hongkong
 My name is YANG Yi.I am a student form HKUST.
 This is a course project to predict the traffic speed in Hongkong.
-My team name used in the competition of Kaggle:EchoMoon
+My team name used in the competition of Kaggle:Yi YANG20710742
 
 Environment:
 Running in https://colab.research.google.com/  (language:Python)
